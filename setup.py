@@ -1,7 +1,7 @@
 import setuptools
 # readme.md = github readme.md, 這裡可接受markdown寫法
 # 如果沒有的話，需要自己打出介紹此專案的檔案，再讓程式知道
-with open("README.md", "r") as fh:
+with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
