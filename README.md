@@ -23,6 +23,7 @@
 
 ## ※See your project structure.
     pip show -f package_name
+---
 ### Reference:
 * [打包python module 到PYPI 上](https://medium.com/%E8%B3%87%E5%B7%A5%E7%AD%86%E8%A8%98/%E6%89%93%E5%8C%85python-module-%E5%88%B0pypi-%E4%B8%8A-aef1f73e1774)
 * [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
